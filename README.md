@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rahul
 - ⚡ I love programming,learning new things and books
 - 🌱 I’m addicted to learning and growing every day
-- 🌍 I’m currently learning Data Structure And Algorithms
+- 🌍 I’m currently learning Full Stack Web Development
 - - 📫 How to find me: 
   - :👨🏻‍💻: [LinkedIn](https://www.linkedin.com/in/rahul-sharma-b11611218/)
   - :👨:[Twitter](https://twitter.com/Stranger1282)
